@@ -15,8 +15,8 @@ Referenced GGE2142's Mig23 Flight stick's 3d design : https://sketchfab.com/3d-m
 Full Assembly will look like this : https://cad.onshape.com/documents/41b159342893432992f2dc4f/w/2e32bb2981abb629ef604ac7/e/049652f066491f72423e1957
 
 
-BoM & Notes:
-dimension is slightly different from original design. Just because I used cheaper&available one. 
+BoM & Notes:<br>
+dimension is slightly different from original design. Just because I used cheaper & available one. 
 Also used sleeve bearings on cams for lower cost.
 
 - Bearing 6901zz * 4
