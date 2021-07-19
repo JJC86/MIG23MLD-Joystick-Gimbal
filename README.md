@@ -12,7 +12,9 @@ Used Murat Vishnyakov's KG13 Grip cad file : https://grabcad.com/library/kg-13-f
 Referenced GGE2142's Mig23 Flight stick's 3d design : https://sketchfab.com/3d-models/mig-23mld-flight-stick-855707656b494a63adcc3c0fc8ba19b1 <br>
 
 ## How to assemble this thing?
-Full Assembly will look like this : https://cad.onshape.com/documents/41b159342893432992f2dc4f/w/2e32bb2981abb629ef604ac7/e/049652f066491f72423e1957
+Full Assembly will look like this
+Images : https://imgur.com/gallery/pQZL5Sh
+CAD : https://cad.onshape.com/documents/41b159342893432992f2dc4f/w/2e32bb2981abb629ef604ac7/e/049652f066491f72423e1957
 
 
 BoM & Notes:<br>
