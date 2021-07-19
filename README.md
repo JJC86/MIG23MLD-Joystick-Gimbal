@@ -1,4 +1,5 @@
 # MIG23MLD Flight Stick Clone
+<img src="https://github.com/tiktrimo/MIG23MLD-Joystick-Gimbal/blob/main/images/20210720_0145.png?raw=true" width="400">
 
 ## Before starting
 Currently grip & button design is prototype. It is too hard to assemble, no trigger group.... <br>
