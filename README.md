@@ -1,5 +1,6 @@
 # MIG23MLD Flight Stick Clone
 <img src="https://github.com/tiktrimo/MIG23MLD-Joystick-Gimbal/blob/main/images/20210720_0145.png?raw=true" width="400">
+Gallery : https://imgur.com/gallery/pQZL5Sh
 
 ## Before starting
 Currently grip & button design is prototype. It is too hard to assemble, no trigger group.... <br>
@@ -14,7 +15,6 @@ Referenced GGE2142's Mig23 Flight stick's 3d design : https://sketchfab.com/3d-m
 
 ## How to assemble this thing?
 Full Assembly will look like this
-Images : https://imgur.com/gallery/pQZL5Sh
 CAD : https://cad.onshape.com/documents/41b159342893432992f2dc4f/w/2e32bb2981abb629ef604ac7/e/049652f066491f72423e1957
 
 
