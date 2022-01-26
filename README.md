@@ -26,11 +26,14 @@ Also used sleeve bearings on cams for lower cost.
 - Bearing MR115zz * 4
 - Sleeve Bearing GFM-0507-11 * 4
 - Sleeve Bearing GFM-0709-10 * 4
-- M5x25 cross head/hex bolt * 7
-- M5x35 countersunk/hex bolt * 4
-- M5x35 cross head/hex bolt * 12
+- M3x16 cross head/hex bolt * 1
+- M3 Nut * 1
+- M5x25 cross head/hex bolt * 20
+- M5x35 countersunk/hex bolt * 3
+- M5x16 countersunk/hex bolt * 2
+- M5x35 cross head/hex bolt * 11
 - M5 spring washer * 10
-- M5 nut * 23
+- M5 nut * 36
 - M3x6 cross head/hex bolt * 6 (optional) 
 <br>
 
