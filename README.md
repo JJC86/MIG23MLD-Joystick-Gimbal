@@ -16,7 +16,7 @@ Referenced GGE2142's Mig23 Flight stick's 3d design : https://sketchfab.com/3d-m
 
 ## How to assemble this thing?
 Full Assembly will look like this
-CAD : https://cad.onshape.com/documents/41b159342893432992f2dc4f/w/2e32bb2981abb629ef604ac7/e/553acef56ceec7f70a2b739c
+CAD : https://cad.onshape.com/documents/d2949292de745de5f3a0b3dc/w/86e25e9ccd34e276e2b01614/e/ad812c8cff31ec84eae2079d
 
 
 BoM & Notes:<br>
